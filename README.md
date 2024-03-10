@@ -51,11 +51,11 @@ There are two distinct profiles within StudyNotion – one for students and anot
 ## Back-End
 The back end of the platform is built using NodeJS and ExpressJS, The back end provides APIs for the front end to consume, which include functionalities such as user authentication, course creation, and course consumption. The back end also handles the logic for processing and storing the course content and user data.
 
-Features and Functionalities of the Back-end: The back end of StudyNotion provides a range of features and functionalities, including:
+**Features and Functionalities of the Back-end:** The back end of StudyNotion provides a range of features and functionalities, including:
 
 - **User authentication and authorization:** Students and instructors can sign up and log in to the platform using their email addresses and password. The platform also supports OTP (One-Time Password) verification and forgot password functionality for added security.
 - **Course management:** Instructors can create, read, update, and delete courses, as well as manage course content and media. Students can view and rate courses.
-- **Payment Integration:** Students will purchase and enroll on courses by completing the checkout flow that is followed by Razorpay integration for payment handling.
+- **Payment Integration:** Students will purchase and enroll in courses by completing the checkout flow that is followed by Razorpay integration for payment handling.
 - **Cloud-based media management:** StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 - **Markdown formatting:** Course content in document format is stored in Markdown format, which allows for easier display and rendering on the front end.
 
@@ -96,7 +96,7 @@ Some Resources:-
 
 Contributions are always welcome!
 
-This project was created by **Rohit Sharma**. If you have any feedback or suggestions, please contact me at **28rohitsharmait@gmail.com** .
+This project was created by **Rohit Sharma**. If you have any feedback or suggestions, please contact me at **28rohitsharmait@gmail.com**.
 
 
 ## Feedback
